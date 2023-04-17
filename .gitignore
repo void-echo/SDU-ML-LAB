@@ -1,3 +1,4 @@
 .idea
 **/*.exe
 transformers_
+#selenium_
